@@ -1,0 +1,7 @@
+# my.cnf
+[client]
+host = 172.19.0.2
+database = sabzbin
+user = root
+password = root@passwd
+default-character-set = utf8
